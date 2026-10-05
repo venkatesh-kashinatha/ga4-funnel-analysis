@@ -1,0 +1,16 @@
+segment_type,segment,viewed_item,added_to_cart,began_checkout,purchased,median_hours_view_to_purchase
+All users,All,61252,12538,5034,2856,1.02
+Device,desktop,35710,7248,2900,1629,1.14
+Device,mobile,24152,5016,2025,1159,0.77
+Device,tablet,1390,274,109,68,2.08
+Medium,organic,22032,4295,1677,953,1.02
+Medium,(none),14284,2990,1178,662,0.9
+Medium,referral,10004,2115,891,520,1.32
+Medium,<Other>,9721,1968,774,417,0.58
+Medium,cpc,2908,557,223,126,0.61
+Medium,(data deleted),2303,613,291,178,14.34
+Month,2020-11,21440,2685,1249,758,153.66
+Month,2020-12,21359,6479,2543,1412,0.72
+Month,2021-01,18453,3374,1242,686,0.46
+User type,New,52134,10041,3780,2044,0.68
+User type,Returning,9118,2497,1254,812,14.34

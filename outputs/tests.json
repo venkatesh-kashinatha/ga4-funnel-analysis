@@ -1,0 +1,46 @@
+[
+  {
+    "p1": 0.08905461724062294,
+    "p2": 0.03920665976138413,
+    "ratio": 2.271415565177415,
+    "z": 20.827980910076153,
+    "p_value": 2.414262391519495e-96,
+    "segment_type": "User type",
+    "a": "Returning",
+    "b": "New",
+    "metric": "purchased/viewed_item"
+  },
+  {
+    "p1": 0.27385391533230974,
+    "p2": 0.1925998388767407,
+    "ratio": 1.4218802929921956,
+    "z": 17.740856557093164,
+    "p_value": 2.0281961705074278e-70,
+    "segment_type": "User type",
+    "a": "Returning",
+    "b": "New",
+    "metric": "added_to_cart/viewed_item"
+  },
+  {
+    "p1": 0.04798774428618748,
+    "p2": 0.045617474096891625,
+    "ratio": 1.0519596982564487,
+    "z": 1.3501418547033788,
+    "p_value": 0.17697048497295342,
+    "segment_type": "Device",
+    "a": "mobile",
+    "b": "desktop",
+    "metric": "purchased/viewed_item"
+  },
+  {
+    "p1": 0.05197920831667333,
+    "p2": 0.04325526506899056,
+    "ratio": 1.2016851181877721,
+    "z": 3.454986963549221,
+    "p_value": 0.0005503194307359156,
+    "segment_type": "Medium",
+    "a": "referral",
+    "b": "organic",
+    "metric": "purchased/viewed_item"
+  }
+]

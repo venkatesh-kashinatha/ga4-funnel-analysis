@@ -1,0 +1,4 @@
+step,entered,continued,lost,drop_off_rate,share_of_all_lost
+Product view -> Add to cart,61252,12538,48714,0.7953,0.8342
+Add to cart -> Checkout,12538,5034,7504,0.5985,0.1285
+Checkout -> Purchase,5034,2856,2178,0.4327,0.0373
